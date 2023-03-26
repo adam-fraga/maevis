@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "babbage"
+    },
+    {
+      "id": 2,
+      "name": "davinci"
+    },
+    {
+      "id": 3,
+      "name": "babbage-code-search-code"
+    },
+    {
+      "id": 4,
+      "name": "text-similarity-babbage-001"
+    },
+    {
+      "id": 5,
+      "name": "text-davinci-001"
+    },
+    {
+      "id": 6,
+      "name": "ada"
+    },
+    {
+      "id": 7,
+      "name": "curie-instruct-beta"
+    },
+    {
+      "id": 8,
+      "name": "babbage-code-search-text"
+    },
+    {
+      "id": 9,
+      "name": "babbage-similarity"
+    },
+    {
+      "id": 10,
+      "name": "whisper-1"
+    },
+    {
+      "id": 11,
+      "name": "code-search-babbage-text-001"
+    },
+    {
+      "id": 12,
+      "name": "text-curie-001"
+    },
+    {
+      "id": 13,
+      "name": "code-search-babbage-code-001"
+    },
+    {
+      "id": 14,
+      "name": "text-ada-001"
+    },
+    {
+      "id": 14,
+      "name": "text-embedding-ada-002"
+    },
+    {
+      "id": 15,
+      "name": "text-similarity-ada-001"
+    },
+    {
+      "id": 16,
+      "name": "ada-code-search-code"
+    },
+    {
+      "id": 17,
+      "name": "ada-similarity"
+    },
+    {
+      "id": 18,
+      "name": "text-davinci-003"
+    },
+    {
+      "id": 19,
+      "name": "code-search-ada-text-001"
+    },
+    {
+      "id": 20,
+      "name": "text-search-ada-query-001"
+    },
+    {
+      "id": 21,
+      "name": "davinci-search-document"
+    },
+    {
+      "id": 22,
+      "name": "ada-code-search-text"
+    },
+    {
+      "id": 23,
+      "name": "text-search-ada-doc-001"
+    },
+    {
+      "id": 24,
+      "name": "davinci-instruct-beta"
+    },
+    {
+      "id": 25,
+      "name": "text-similarity-curie-001"
+    },
+    {
+      "id": 26,
+      "name": "code-search-ada-code-001"
+    },
+    {
+      "id": 27,
+      "name": "ada-search-query"
+    },
+    {
+      "id": 28,
+      "name": "text-search-davinci-query-001"
+    },
+    {
+      "id": 29,
+      "name": "curie-search-query"
+    },
+    {
+      "id": 30,
+      "name": "gpt-3.5-turbo-0301"
+    },
+    {
+      "id": 31,
+      "name": "davinci-search-query"
+    },
+    {
+      "id": 32,
+      "name": "babbage-search-document"
+    },
+    {
+      "id": 33,
+      "name": "ada-search-document"
+    },
+    {
+      "id": 34,
+      "name": "text-search-curie-query-001"
+    },
+    {
+      "id": 35,
+      "name": "text-search-babbage-doc-001"
+    },
+    {
+      "id": 36,
+      "name": "gpt-3.5-turbo"
+    },
+    {
+      "id": 37,
+      "name": "curie-search-document"
+    },
+    {
+      "id": 38,
+      "name": "text-search-curie-doc-001"
+    },
+    {
+      "id": 39,
+      "name": "babbage-search-query"
+    },
+    {
+      "id": 40,
+      "name": "text-babbage-001"
+    },
+    {
+      "id": 41,
+      "name": "text-search-davinci-doc-001"
+    },
+    {
+      "id": 42,
+      "name": "text-search-babbage-query-001"
+    },
+    {
+      "id": 43,
+      "name": "curie-similarity"
+    },
+    {
+      "id": 44,
+      "name": "curie"
+    },
+    {
+      "id": 45,
+      "name": "text-similarity-davinci-001"
+    },
+    {
+      "id": 46,
+      "name": "text-davinci-002"
+    },
+    {
+      "id": 47,
+      "name": "davinci-similarity"
+    },
+    {
+      "id": 48,
+      "name": "cushman:2020-05-03"
+    },
+    {
+      "id": 49,
+      "name": "ada:2020-05-03"
+    },
+    {
+      "id": 50,
+      "name": "babbage:2020-05-03"
+    },
+    {
+      "id": 51,
+      "name": "curie:2020-05-03"
+    },
+    {
+      "id": 52,
+      "name": "davinci:2020-05-03"
+    },
+    {
+      "id": 53,
+      "name": "if-davinci-v2"
+    },
+    {
+      "id": 54,
+      "name": "if-curie-v2"
+    },
+    {
+      "id": 55,
+      "name": "if-davinci:3.0.0"
+    },
+    {
+      "id": 56,
+      "name": "davinci-if:3.0.0"
+    },
+    {
+      "id": 57,
+      "name": "davinci-instruct-beta:2.0.0"
+    },
+    {
+      "id": 58,
+      "name": "text-ada:001"
+    },
+    {
+      "id": 59,
+      "name": "text-davinci:001"
+    },
+    {
+      "id": 60,
+      "name": "text-curie:001"
+    },
+    {
+      "id": 61,
+      "name": "text-babbage:001"
+    }
+  ]
+}
