@@ -464,7 +464,16 @@ dependencies = [
 name = "maevis_bin"
 version = "0.1.0"
 dependencies = [
+ "console",
+ "dotenv",
+ "indicatif",
+ "log",
  "maevis",
+ "reqwest",
+ "serde",
+ "serde_json",
+ "simple_logger",
+ "tokio",
 ]
 
 [[package]]
